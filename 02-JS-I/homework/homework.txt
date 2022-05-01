@@ -1,0 +1,15 @@
+Variables: Una variable es una forma de almacenar el valor de algo para usar más tarde.
+
+Strings: Las strings son bloques de texto o cadenas de caracteres, siempre se definiran entre comillas ya sean 'simples' o "dobles".
+
+Funciones: Con las funciones podemos escribir código que podemos reutilizar en nuestro programa, llamados callable objects u objetos invocables, por lo que tienen las mismas prpiedades que cualquier objeto.
+
+Argumentos:Los argumentos son los valores que asignamos a los parametros de la función.
+
+return: return nos va a permitir que la función retorne un valor cuando se ejecute esa linea.
+
+declaraciones 'if': Los condicionales nos permiten decidir si un bloque de código se ejecuta o no dependiendo de una condición. Este condicional evalua si la expresión es verdadera o falsa (true or false), si la condición es verdadera ejecutara el código y si es falso no se ejecuta nada.
+
+Valores booleanos: Es un concepto que alimenta el código binario y el nucle de las computadoras. Esencialmente significa que tiene dos opciones, activar o desactivar, 0 o 1, verdadero o falso.
+Los valores posibles de un dato booleano  en JavaScript son: true o false.
+
