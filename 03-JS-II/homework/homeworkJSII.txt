@@ -1,0 +1,4 @@
+for: Usamos el ciclo for cuando sabemos cuantas iteraciones van a ser necesarias. Crea un bucle que consiste en tres expresiones opcionales, encerradas en paréntesis y separadas por puntos y comas, seguidas de una sentencia ejecutada en un bucle.
+&& (and): Es un operador lógico que nos permite combinar distintas expresiones para formar condiciones más elaboradas o más complejas. La expresión solo es verdadera cuando ambos operados son verdaderos.
+|| (or): Es un operador lógico, La expresión es verdadera si alguno de los dos operados es verdadero o si ambos son verdaderos.
+! (not): Es el operador que usamos para negar el valor de verdadero de una expresión, usamos el simbolo "!" antes de la expresión que queremos negar.
